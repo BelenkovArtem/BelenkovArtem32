@@ -50,4 +50,3 @@ console.log("32" + 2);
 console.log("Hello " + true);
 // вывод "Value: null"
 console.log("Value: " + null);
-//22
