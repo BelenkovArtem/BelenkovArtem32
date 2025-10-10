@@ -50,6 +50,7 @@ console.log("32" + 2);
 console.log("Hello " + true);
 // вывод "Value: null"
 console.log("Value: " + null);
+
 // Операторы сравнения
 
 // == нестрогое сравнение, приводит типы к числу
